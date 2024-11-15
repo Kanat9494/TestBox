@@ -8,6 +8,11 @@ public partial class MainPage : ContentPage
     {
         InitializeComponent();
 
+        WeakReferenceMessenger.Default.Register<PushNotificationReceived>(this, (r, m) =>
+        {
+            string msg = m.Value;
+        });
+
         if (Preferences.ContainsKey("DeviceToken"))
         {
             _deviceToken = Preferences.Get("DeviceToken", "");
