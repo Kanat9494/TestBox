@@ -24,7 +24,7 @@
 		<ApplicationTitle>TestBox</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.testbox</ApplicationId>
+		<ApplicationId>com.salymf.testbox</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
