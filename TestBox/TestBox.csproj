@@ -44,10 +44,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Platforms\Android\google-services.json" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <GoogleServicesJson Include="Platforms\Android\google-services.json" />
 	</ItemGroup>
 
