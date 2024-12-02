@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646800538546",
+    "project_id": "testbox-a51ef",
+    "storage_bucket": "testbox-a51ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646800538546:android:c73df24f220058955702ab",
+        "android_client_info": {
+          "package_name": "com.salymf.testbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-cWg3lUzjSLMxZDkiLy13cRgcpVRyWkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
